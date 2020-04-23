@@ -11,13 +11,14 @@ Displays the current selected graphics card for an optimus laptop.
 
 For any bars you will be adding this module to, make sure you include Font Awesome as a font.
 
+### Font
 ```
 [bar/example]
 
 font-0 = "Font Awesome 5 Free:style=Solid:size=10;1"
 ```
 
-## Module
+### Module
 ```
 [module/optimus-status]
 type=custom/script
