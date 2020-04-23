@@ -8,10 +8,8 @@ Displays the current selected graphics card for an optimus laptop.
 - [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
 
 ## Setup
-
-For any bars you will be adding this module to, make sure you include Font Awesome as a font.
-
 ### Font
+For any bars you will be adding this module to, make sure you include Font Awesome as a font.
 ```
 [bar/example]
 
