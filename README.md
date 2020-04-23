@@ -5,7 +5,17 @@ Displays the current selected graphics card for an optimus laptop.
 
 ## Requirements
 
-- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+- [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
+
+## Setup
+
+For any bars you will be adding this module to, make sure you include Font Awesome as a font.
+
+```
+[bar/example]
+
+font-0 = "Font Awesome 5 Free:style=Solid:size=10;1"
+```
 
 ## Module
 ```
