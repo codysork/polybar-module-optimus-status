@@ -5,6 +5,7 @@ Displays the current selected graphics card for an optimus laptop.
 
 ## Requirements
 
+- [Optimus Manager](https://github.com/Askannz/optimus-manager)
 - [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
 
 ## Setup
